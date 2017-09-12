@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 --on-ff dev
 
 dev
+master1
