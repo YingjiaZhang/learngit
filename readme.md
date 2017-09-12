@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 
 dev
 master1
+feature-1
